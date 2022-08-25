@@ -28,3 +28,4 @@ for q_itr in range(q):
             print(len(s2))
         else:
             print('-1')
+#hi                        
